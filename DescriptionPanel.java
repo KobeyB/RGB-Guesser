@@ -66,7 +66,6 @@ public class DescriptionPanel extends JPanel implements ActionListener{
 		
 		this.add(buttonsPanel, BorderLayout.SOUTH);
 		
-		//this.add(exitButton, BorderLayout.NORTH);
 	}
 	
 	@Override
